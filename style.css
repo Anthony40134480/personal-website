@@ -51,6 +51,21 @@ h2{
 #lasted-color{
     color: orangered;
 }
+#connect-align{
+    text-align: center;
+}
+#design-align{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+#icon{
+    text-align: center;
+}
+#icon img{
+    width: 3%;
+    padding-left: 10px;
+}
 
 
 
