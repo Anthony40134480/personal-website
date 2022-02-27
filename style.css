@@ -5,6 +5,12 @@ body{
     font-family: 'Poppins', sans-serif;
     text-align: justify;
 }
+section{
+    height: 500px;
+    padding-bottom: 50px;
+}
+
+
 .half-width{
     width: 40%;
     margin: 2%;
@@ -12,7 +18,7 @@ body{
     float: left;
 }
 .half-width img{
-    width: 80%;
+    width: 70%;
 }
 .name-color{
     color: salmon;
@@ -31,3 +37,21 @@ h2{
     font-size: 35px;
     font-weight: bold;
 }
+.image-floting img{
+    float: left;
+    width: 25%;
+    margin-left: 5%;
+}
+#align{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+#lasted-color{
+    color: orangered;
+}
+
+
+
+
